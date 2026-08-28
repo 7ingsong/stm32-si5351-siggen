@@ -60,7 +60,7 @@ A compact, multi-channel signal generator based on the **STM32** microcontroller
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/stm32-si5351-siggen.git](https://github.com/your-username/stm32-si5351-siggen.git)
+   git clone https://github.com/your-username/stm32-si5351-siggen.git
    cd stm32-si5351-siggen
 2. Compile and Upload
     ```bash
